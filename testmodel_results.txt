@@ -1,0 +1,57 @@
+testmodel
+simulation
+
+STATE SPACE:	32
+
+CYCLES:	8
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 0 0 0 0 ]
+[ 1 1 1 1 0 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 0 0 0 1 ]
+[ 1 1 1 1 1 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 0 1 1 0 ]
+[ 1 1 0 0 0 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 0 1 1 1 ]
+[ 1 1 0 0 1 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 1 0 0 0 ]
+[ 1 0 1 1 0 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 1 0 0 1 ]
+[ 1 0 1 1 1 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 1 1 1 0 ]
+[ 1 0 0 0 0 ]
+
+LIMIT CYCLE:
+Component Size: 4 = 12.5000 %
+Length: 2
+[ 0 1 1 1 1 ]
+[ 1 0 0 0 1 ]
+DONE
+<NOTES>
+</NOTES>

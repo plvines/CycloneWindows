@@ -1,0 +1,1 @@
+g++ shell.cc utilities.cc cyclone.cc Table.cc PDS.cc -o Cyclone.exe -static-libgcc -static-libstdc++
